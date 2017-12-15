@@ -1,5 +1,7 @@
 # Genome Graph Japan
 
+日本国内でゲノムグラフの開発・利用を推進する研究会を立ち上げました(2017/11/9)。
+
 ## Genome Graph 研究会
 
 [GitHub レポジトリ](https://github.com/genomegraph/)
@@ -15,4 +17,8 @@
 
 BioHackathon17.11@熊本にてvg勉強会を開きました。
 vg勉強会資料は[こちら](https://github.com/genomegraph/workshop)にあるvg_tutorial内のvg_tutorial.mdをご覧ください。
+
+### 今後の予定
+
+* 2018/3/5-9 [ポルトガル](portugal)
 

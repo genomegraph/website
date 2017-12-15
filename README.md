@@ -12,9 +12,9 @@
 アセンブリやSV検出、メタゲノム解析などで応用できると期待されています。
 
 ![例：SNPのグラフ表現](images/SNP_IMAGE.png)
-![例：ちょっと複雑な構造のグラフ表現](images/SV_in_genomegraph_sample.png)
+![例：ちょっと複雑な構造のグラフ表現](images/GraphGenomeImage.png)
 構造多型（SV）は以下のようにグラフで表現できます。
-![例:構造多型](images/GraphGenomeImage.png)
+![例:構造多型](images/SV_in_genomegraph_sample.png)
 
 ### vg勉強会資料
 

@@ -21,6 +21,11 @@
 BioHackathon17.11@熊本にてvg勉強会を開きました。
 vg勉強会資料は[こちら](https://github.com/genomegraph/workshop)にあるvg_tutorial内のvg_tutorial.mdをご覧ください。
 
+### vgの資料
+
+東大新領域の犀川さんがまとめてくれています。
+[こちら](usage)からご覧ください。
+
 ### 今後の予定
 
 当面は [SPARQLthon](http://wiki.lifesciencedb.jp/mw/SPARQLthon) で打ち合わせなどを行っていきます。
@@ -33,4 +38,6 @@ vg勉強会資料は[こちら](https://github.com/genomegraph/workshop)にあ�
 興味のある方のご参加をお待ちしています。
 
 * [参加メンバー](members)
+
+
 

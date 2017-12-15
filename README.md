@@ -29,5 +29,5 @@ vg勉強会資料は[こちら](https://github.com/genomegraph/workshop)にあ�
 
 興味のある方のご参加をお待ちしています。
 
-* [参加メンバー](member)
+* [参加メンバー](members)
 

@@ -24,20 +24,20 @@ vg勉強会資料は[こちら](https://github.com/genomegraph/workshop)にあ�
 ### vgの資料
 
 東大新領域の犀川さんがまとめてくれています。
-[こちら](usage)からご覧ください。
+[こちら](https://github.com/genomegraph/website/blob/master/usage.md)からご覧ください。
 
 ### 今後の予定
 
 当面は [SPARQLthon](http://wiki.lifesciencedb.jp/mw/SPARQLthon) で打ち合わせなどを行っていきます。
 研究会や講習会などが決まればこちらにリンクします。
 
-* 2018/3/5-9 [ポルトガル](portugal)
+* 2018/3/5-9 [ポルトガル](https://github.com/genomegraph/website/blob/master/portugal.md)
 
 ### メンバー
 
 興味のある方のご参加をお待ちしています。
 
-* [参加メンバー](members)
+* [参加メンバー](https://github.com/genomegraph/website/blob/master/members.md)
 
 
 

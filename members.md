@@ -2,3 +2,5 @@
 
 * Toshiaki Katayama (DBCLS)
 * Toshiyuki Yokoyama (University of Tokyo)
+* Yoritaka Harazono (University of Tokyo)
+

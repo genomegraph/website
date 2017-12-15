@@ -20,5 +20,14 @@ vg勉強会資料は[こちら](https://github.com/genomegraph/workshop)にあ�
 
 ### 今後の予定
 
+当面は [SPARQLthon](http://wiki.lifesciencedb.jp/mw/SPARQLthon) で打ち合わせなどを行っていきます。
+研究会や講習会などが決まればこちらにリンクします。
+
 * 2018/3/5-9 [ポルトガル](portugal)
+
+### メンバー
+
+興味のある方のご参加をお待ちしています。
+
+* [参加メンバー](member)
 

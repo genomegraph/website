@@ -21,7 +21,11 @@
 #### vg勉強会資料
 
 [BioHackathon17.11](http://wiki.lifesciencedb.jp/mw/BH17.11)@熊本にてvg勉強会を開きました。
-vg勉強会資料は[こちら](https://github.com/genomegraph/workshop)にあるvg_tutorial内のvg_tutorial.mdをご覧ください。
+vgハンズオン資料は[こちら](https://github.com/genomegraph/workshop)にあるvg_tutorial内のvg_tutorial.mdをご覧ください。
+
+#### ゲノムグラフブラウザハンズオン資料
+
+ゲノムグラフブラウザハンズオン資料は[こちら](https://github.com/genomegraph/workshop/blob/master/browser_tutorial/browser_tutorial.md)をご覧ください。
 
 #### vg日本語版ドキュメント
 

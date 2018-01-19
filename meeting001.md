@@ -19,4 +19,4 @@
 ## 参加登録
 事前にどれほどの方がいらっしゃるのかを把握したいため、お手数ですが以下のスプレッドシートに記入をお願いします。
 また、研究会の後の時間で懇親会を開こうと企画しています。参加を希望される人数を大まかに事前に把握したいため、現段階で懇親会への参加可否が決まっている方は、併せてご記入ください。
-https://docs.google.com/spreadsheets/d/1kuLJ2U0ZJ2CsmqbuhcTKD_HqsUWTXT9Y21Lj6a08MjY/edit?usp=sharing
+[google スプレッドシート](https://docs.google.com/spreadsheets/d/1kuLJ2U0ZJ2CsmqbuhcTKD_HqsUWTXT9Y21Lj6a08MjY/edit?usp=sharing)

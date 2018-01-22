@@ -1,9 +1,11 @@
 ※https://genomegraph.github.io/website/ よりご覧ください。
-# What's new
-第１回 Genome Graph 研究会と第２回 Genome Graph 研究会のページを追加しました。
-[第１回](meeting001.md)
-[第２回](meeting002.md)
 
+# What's new
+
+第１回 Genome Graph 研究会と第２回 Genome Graph 研究会のページを追加しました。
+
+* [第１回](meeting001.md)
+* [第２回](meeting002.md)
 
 # Genome Graph Japan
 
@@ -47,7 +49,9 @@ DBCLSの片山が作成しています。[こちら](https://github.com/genomegr
 当面は [SPARQLthon](http://wiki.lifesciencedb.jp/mw/SPARQLthon) で打ち合わせなどを行っていきます。
 研究会や講習会などが決まればこちらにリンクします。
 
+* 2018/2/27 [第１回 Genome Graph 研究会](meeting001.md)
 * 2018/3/5-9 [ポルトガル](portugal)
+* 2018/3/26 [第２回 Genome Graph 研究会](meeting002.md)
 
 ### 参加するには
 

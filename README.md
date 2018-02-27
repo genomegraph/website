@@ -1,4 +1,4 @@
-※https://genomegraph.github.io/website/ よりご覧ください。
+※ http://www.genomegraph.jp/ よりご覧ください。
 
 # What's new
 

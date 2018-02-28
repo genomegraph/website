@@ -1,4 +1,4 @@
-※ [http://www.genomegraph.jp/](http://www.genomegraph.jp/) よりご覧ください。
+※ [http://genomegraph.jp/](http://genomegraph.jp/) よりご覧ください。
 
 # What's new
 

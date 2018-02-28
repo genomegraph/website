@@ -13,7 +13,8 @@
 
 ## Genome Graph 研究会
 
-[GitHub レポジトリ](https://github.com/genomegraph/)
+* [GitHub レポジトリ](https://github.com/genomegraph/)
+* [メーリングリスト](https://groups.google.com/group/genome-graph-jp)
 
 ### 趣旨
 

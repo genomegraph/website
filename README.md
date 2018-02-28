@@ -39,6 +39,10 @@
 [BioHackathon17.11](http://wiki.lifesciencedb.jp/mw/BH17.11)@熊本にてvg勉強会を開きました。
 vgハンズオン資料は[こちら](https://github.com/genomegraph/workshop)にあるvg_tutorial内のvg_tutorial.mdをご覧ください。
 
+#### 可視化ツール: MoMIG
+
+[MoMIG](https://github.com/MoMI-G/MoMI-G)
+
 #### ゲノムグラフブラウザハンズオン資料
 
 ゲノムグラフブラウザハンズオン資料は[こちら](https://github.com/genomegraph/workshop/blob/master/browser_tutorial/browser_tutorial.md)をご覧ください。

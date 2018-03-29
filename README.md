@@ -1,8 +1,6 @@
 ※ [http://genomegraph.jp/](http://genomegraph.jp/) よりご覧ください。
 
-# What's new
-
-第１回 Genome Graph 研究会と第２回 Genome Graph 研究会のページを追加しました。
+# 研究会情報
 
 * [第１回](meeting001.md)
 * [第２回](meeting002.md)

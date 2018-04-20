@@ -1,6 +1,7 @@
 ※ [http://genomegraph.jp/](http://genomegraph.jp/) よりご覧ください。
 
 # 研究会情報
+※第３回研究会の日程が変更されました（5/2->5/1)。
 
 * [第１回](meeting001.md)
 * [第２回](meeting002.md)

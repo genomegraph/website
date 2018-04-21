@@ -64,7 +64,7 @@ DBCLSの片山が作成しています。[こちら](https://github.com/genomegr
 * 2018/2/27 [第１回 Genome Graph 研究会](meeting001.md)
 * 2018/3/5-9 [ポルトガル](portugal)
 * 2018/3/26 [第２回 Genome Graph 研究会](meeting002.md)
-* 2018/5/2 [第３回 Genome Graph 研究会](meeting003.md)
+* 2018/5/1 [第３回 Genome Graph 研究会](meeting003.md)
 
 ### 参加するには
 

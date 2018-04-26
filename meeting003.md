@@ -17,13 +17,14 @@
 14:40-15:40    | Opinion: 「グラフゲノムフォーマットの展望（仮）」（東大・笠原先生）
 15:40-16:00    | 休憩＆ミキサー
 16:00-17:00    | ハンズオン: 「[PANGenomics講習会](https://github.com/Pfern/PANGenomics) 実践・翻訳」（東大・原薗）　参考資料([Day2 Slide](https://docs.google.com/presentation/d/1fBGt2OLc9HVxH594TWeQ5i1sbmFwi555ibR1RgGNxmg/edit#slide=id.g34759b27f6_0_0))
-17:00-         | 懇親会
+17:00-17:15    | 次回以降の日程調整
+17:15-         | 懇親会
 
 （当日の様子により、時間は変動する場合もございます）
 
 ## 日程・会場
 ### 日付と時間
-5/1(火) 13:30~17:00
+5/1(火) 13:30~17:15
 ### 会場
 東京大学 柏の葉キャンパス駅前 サテライト 6階 DBCLS 柏ラボ
 [アクセス](http://dbcls.rois.ac.jp/access)

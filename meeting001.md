@@ -28,7 +28,7 @@
 ### 第二部（15:30~17:00）
 第二部では、国内におけるgenome graph研究の応用例などを紹介します。
 - メタゲノム解析におけるgenome graphの応用（大和田：東工大）
-- ゲノムグラフブラウザ（横山：東大）
+- [グラフゲノムブラウザ](https://drive.google.com/file/d/1h5HZdjPrRhscxmBCLg_1L3tS8Dvguwq9/view?usp=sharing)（横山：東大）
 
 ### 懇親会（17:00~）
 

@@ -12,7 +12,7 @@
 - 第3回サミット開催報告 ゲノム変異の標準化に向けて (片山：DBCLS)
 - 論文紹介"Graphtyper enables population-scale genotyping using pangenome graphs"（黒木：東大）
 - (鈴木　創：東京大学)
-- vg tools チュートリアルの準備(原薗：東大)
+- [vg tools チュートリアル](https://github.com/genomegraph/workshop/blob/master/variant_calling_tutorial/variantcall.md)の準備(原薗：東大)
 
 ### 懇親会（17:00~）
 

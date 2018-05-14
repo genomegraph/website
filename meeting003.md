@@ -13,7 +13,7 @@
 -------------  | -------------
 13:00頃        | 開場
 13:30-13:40    | オープニング・自己紹介（一言ずつ）
-13:40-14:40    | 論文紹介: 「CHOP: Haplotype-aware path indexing in population graphs」（原薗）
+13:40-14:40    | 論文紹介: 「[CHOP: Haplotype-aware path indexing in population graphs](https://drive.google.com/file/d/1GPq_zQu4YBUBJecas9hG_LK7Hu93gogk/view?usp=sharing) 」（原薗）
 14:40-15:40    | Opinion: 「グラフゲノムフォーマットの展望（仮）」（東大・笠原先生）
 15:40-16:00    | 休憩＆ミキサー
 16:00-17:00    | ハンズオン: 「[PANGenomics講習会](https://github.com/Pfern/PANGenomics) 実践・翻訳」（東大・原薗）　参考資料([Day2 Slide](https://docs.google.com/presentation/d/1fBGt2OLc9HVxH594TWeQ5i1sbmFwi555ibR1RgGNxmg/edit#slide=id.g34759b27f6_0_0)、[作業記録](https://docs.google.com/document/d/1MVvz6sXc0P7VPJeg5ziSYdHa6Rhw5cxwy6j9xS2eB-s/edit?usp=sharing))

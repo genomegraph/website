@@ -1,11 +1,11 @@
 ※ [http://genomegraph.jp/](http://genomegraph.jp/) よりご覧ください。
 
 # 研究会情報
-※第３回研究会の日程が変更されました（5/2->5/1)。
 
 * [第１回](meeting001.md)
 * [第２回](meeting002.md)
 * [第３回](meeting003.md)
+* [第３回](meeting004.md)
 
 # Genome Graph Japan
 
@@ -65,6 +65,7 @@ DBCLSの片山が作成しています。[こちら](https://github.com/genomegr
 * 2018/3/5-9 [ポルトガル](portugal)
 * 2018/3/26 [第２回 Genome Graph 研究会](meeting002.md)
 * 2018/5/1 [第３回 Genome Graph 研究会](meeting003.md)
+* 2018/6/21 [第４回 Genome Graph 研究会](meeting004.md)
 
 ### 参加するには
 

@@ -5,7 +5,7 @@
 * [第１回](meeting001.md)
 * [第２回](meeting002.md)
 * [第３回](meeting003.md)
-* [第３回](meeting004.md)
+* [第４回](meeting004.md)
 
 # Genome Graph Japan
 

@@ -11,7 +11,7 @@
 時間          | 内容
 ------------ | -------------
 13:00-13:10  | オープニング・自己紹介（一言ずつ）
-13:10-14:10  | 論文紹介: 「」（神保）
+13:10-14:10  | 論文紹介: 「A Graph Extension of the Positional Burrows-Wheeler Transform and its Applications」（神保）
 14:10-15:10  | 研究紹介:「vg toolsの内部データ構造について」(鈴木)
 15:10-15:30  | coffee break
 15:30-17:00  | vg チュートリアル(原薗)

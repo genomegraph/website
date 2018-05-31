@@ -3,8 +3,11 @@
 
 ## プログラム
 第４回 Genome Graph 研究会はSPARQLthon69 と同時開催となります。
+
 SPARQLthon69は、午前中より柏の葉キャンパス駅前サテライト６階にて行われます。
+
 “SPARQLthon は、ライフサイエンスにおけるセマンティック・ウェブに興味のある方であれば誰でも自由に参加して頂ける会です”（[SPARQLthon wiki](http://wiki.lifesciencedb.jp/mw/SPARQLthon))。
+
 
 
 Genome Graph 研究会では、ゲノムグラフ関連の研究をしている方の発表を広く歓迎しています。
@@ -29,7 +32,9 @@ Genome Graph 研究会では、ゲノムグラフ関連の研究をしている�
 6/21(木) 13:00~17:15
 ### 会場
 東京大学 柏の葉キャンパス駅前 サテライト 7階701会議室(DBCLS)
+
 [アクセス](http://dbcls.rois.ac.jp/access)
+
 普段と会場が異なります。ご注意ください。
 
 ## 参加登録

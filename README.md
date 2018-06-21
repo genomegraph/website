@@ -50,7 +50,7 @@ vgハンズオン資料は[こちら](https://github.com/genomegraph/workshop)�
 
 #### vg日本語版ドキュメント
 
-東大新領域の犀川さんがまとめてくれています。[こちら](usage)からご覧ください。
+東大新領域の犀川さんがまとめてくれています。[こちら](https://docbase.io/posts/312298/sharing/e531ccc7-de15-4193-8a03-86742f8a2bfe)からご覧ください。
 
 #### vgチートシート
 

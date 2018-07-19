@@ -6,6 +6,7 @@
 * [第２回](meeting002.md)
 * [第３回](meeting003.md)
 * [第４回](meeting004.md)
+* [第５回](meeting005.md)
 
 # Genome Graph Japan
 
@@ -66,6 +67,7 @@ DBCLSの片山が作成しています。[こちら](https://github.com/genomegr
 * 2018/3/26 [第２回 Genome Graph 研究会](meeting002.md)
 * 2018/5/1 [第３回 Genome Graph 研究会](meeting003.md)
 * 2018/6/21 [第４回 Genome Graph 研究会](meeting004.md)
+* 2018/8/23 [第５回 Genome Graph 研究会](meeting005.md)
 
 ### 参加するには
 

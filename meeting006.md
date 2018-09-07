@@ -20,9 +20,9 @@ Genome Graph 研究会では、ゲノムグラフ関連の研究をしている�
 13:40-14:40  | IIBMP 発表報告（原薗）
 14:40-15:40  | 論文紹介（神保）
 15:40-16:00  | coffee break
-16:00-17:00  | セッション「Novel Algorithms for Assembly Graph」
+16:00-17:00  | セッション「Assembly Graphs and Population Graphs」
 　           | 論文紹介「A graph-based approach to diploid genome assembly」（山内）
-　           | 研究トピック「An Introduction to Superbubbles, Ultrabubbles and Cacti」（横山）
+　           | 論文紹介「NovoGraph」（横山）
 17:00-17:30  | vg toolsの紹介、ハンズオン
 17:30-17:45  | 会のまとめ&次回以降の日程調整
 17:45-       | 懇親会(SPARQLthon72と共同開催)

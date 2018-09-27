@@ -50,13 +50,19 @@ vgハンズオン資料は[こちら](https://github.com/genomegraph/workshop)�
 
 ゲノムグラフブラウザハンズオン資料は[こちら](https://github.com/genomegraph/workshop/blob/master/browser_tutorial/browser_tutorial.md)をご覧ください。
 
+#### vg逆引き辞典
+
+東工大の大和田さんがまとめてくださいました。[こちら](https://github.com/genomegraph/vg_reverse_lookup)
+
 #### vg日本語版ドキュメント
 
-東大新領域の犀川さんがまとめてくれています。[こちら](https://docbase.io/posts/312298/sharing/e531ccc7-de15-4193-8a03-86742f8a2bfe)からご覧ください。
+東大新領域の犀川さんがまとめてくださいました。[こちら](https://docbase.io/posts/312298/sharing/e531ccc7-de15-4193-8a03-86742f8a2bfe)からご覧ください。
 
 #### vgチートシート
 
 DBCLSの片山が作成しています。[こちら](https://github.com/genomegraph/vg-cheatsheet)からご覧ください。
+
+
 
 ### 今後の予定
 

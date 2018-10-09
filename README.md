@@ -53,7 +53,7 @@ vgハンズオン資料は[こちら](https://github.com/genomegraph/workshop)�
 
 #### vg逆引き辞典
 
-東工大の大和田さんがまとめてくださいました。[こちら](https://github.com/genomegraph/vg_reverse_lookup)からご覧ください。
+ゲノムグラフ研究会の活動にてまとめました。[こちら](https://github.com/genomegraph/vg_reverse_lookup)からご覧ください。
 
 #### vg日本語版ドキュメント
 

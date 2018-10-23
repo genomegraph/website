@@ -23,7 +23,7 @@
 ## 今後の予定
 * 2018/11/21 [第８回 Genome Graph 研究会](meeting008.md)
 
-## リンク集
+## リンク集 (Under constructing)
 * [ゲノムグラフとは](genomegraph_overview)
 * [vgの資料]()
 * [論文スプレッドシート]()

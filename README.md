@@ -27,14 +27,12 @@
 * [ゲノムグラフとは](genomegraph_overview)
 * [vgの資料]()
 * [論文スプレッドシート]()
-* [google drive]()
 * [vg のチュートリアル CPANG18](portugal)
 
 
 
-
-当面は [SPARQLthon](http://wiki.lifesciencedb.jp/mw/SPARQLthon) で打ち合わせなどを行っていきます。
-研究会や講習会などが決まればこちらにリンクします。
+研究会や講習会などの資料はこちらにまとめてあります。
+* [Google Drive](https://drive.google.com/open?id=15JjZhBMozufBoBsD7mPVBHX4XiGOdZfC02W4lGQ27I4)
 
 * 2018/2/27  [第１回 Genome Graph 研究会](meeting001.md)
 * 2018/3/26  [第２回 Genome Graph 研究会](meeting002.md)

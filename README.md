@@ -63,8 +63,6 @@ vgハンズオン資料は[こちら](https://github.com/genomegraph/workshop)�
 
 DBCLSの片山が作成しています。[こちら](https://github.com/genomegraph/vg-cheatsheet)からご覧ください。
 
-### ゲノムグラフ関連論文リスト
-こちらの[スプレッドシート](https://docs.google.com/spreadsheets/d/11zqSsJx_rXCEhGvqj_PgtUN_j1bUx1-uYDkY108atjs/edit#gid=0)にまとめました。
 
 ### 過去の発表資料
 こちらの[google drive](https://drive.google.com/drive/folders/1HxOCQXn8Z9Cr-8LEQSalFlg5rn3ix-hA)にまとめました。

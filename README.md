@@ -4,7 +4,7 @@
 
 
 ### 直近の予定
-* 2018/11/21 [第８回 Genome Graph 研究会]
+* 2018/11/21 [第８回 Genome Graph 研究会](meeting008.md)
 
 
 ## 趣旨
@@ -21,7 +21,7 @@
 また、[メーリングリスト](https://groups.google.com/group/genome-graph-jp)でも併せて定期的に情報発信を行いますので、興味のある方は各自ご登録頂ければと思います。
 
 ## 今後の予定
-* 2018/11/21 [第８回 Genome Graph 研究会]
+* 2018/11/21 [第８回 Genome Graph 研究会](meeting008.md)
 
 ## リンク集
 * [ゲノムグラフとは](genomegraph_overview)

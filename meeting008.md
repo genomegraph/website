@@ -37,4 +37,4 @@ Genome Graph 研究会では、ゲノムグラフ関連の研究をしている�
 [このスプレッドシート](https://docs.google.com/spreadsheets/d/15JjZhBMozufBoBsD7mPVBHX4XiGOdZfC02W4lGQ27I4/edit?usp=sharing)に必要事項をご記入ください。
 
 ## お問い合わせ
-本研究会に関するお問い合わせは原薗(harazono_yoritaka_17@stu-cbms.k.u-tokyo.ac.jp)までお願いします。
+本研究会に関するお問い合わせは[こちらのアドレス](genome.graph.jp@gmail.com)までお願いします。

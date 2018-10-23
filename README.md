@@ -31,7 +31,7 @@
 * [vg のチュートリアル CPANG18](portugal)
 
 
-### 開催履歴
+
 
 当面は [SPARQLthon](http://wiki.lifesciencedb.jp/mw/SPARQLthon) で打ち合わせなどを行っていきます。
 研究会や講習会などが決まればこちらにリンクします。

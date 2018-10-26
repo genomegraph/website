@@ -32,7 +32,7 @@
 
 
 研究会や講習会などの資料はこちらにまとめてあります。
-* [Google Drive](https://drive.google.com/open?id=15JjZhBMozufBoBsD7mPVBHX4XiGOdZfC02W4lGQ27I4)
+* [Google Drive](https://drive.google.com/drive/folders/1HxOCQXn8Z9Cr-8LEQSalFlg5rn3ix-hA)
 
 * 2018/2/27  [第１回 Genome Graph 研究会](meeting001.md)
 * 2018/3/26  [第２回 Genome Graph 研究会](meeting002.md)

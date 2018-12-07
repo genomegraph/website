@@ -11,7 +11,7 @@ Genome Graph 研究会では、ゲノムグラフ関連の研究をしている�
 時間| 内容         | 資料 
 ------------|-------------|----- 
 13:30-13:40 | オープニング・自己紹介（一言ずつ）　| |
-13:40-14:20 | 研究報告(神保)　|[資料]() |
+13:40-14:20 | 研究報告(神保)　|[資料](https://drive.google.com/open?id=1hDj_jYvNdZeHghVB-8fP1qmVrjEp0G6i) |
 14:20-15:15 | ゲノムグラフ＆vg 入門(大和田)　|[資料](https://drive.google.com/open?id=1R5Ub5MKmmfUI4pf_H5R2a_I8p2jQz84b)|
 15:15-15:30 | coffee break　| |
 15:30-16:00 | ゲノムグラフのヒトゲノム応用に向けて(横山)　|[資料](https://drive.google.com/open?id=1DagXCeYQB4O3uZyTqeAD3Cm--YR9EwSh) |

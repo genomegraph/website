@@ -4,7 +4,8 @@
 
 
 ### 直近の予定
-* 2018/11/21 [第８回 Genome Graph 研究会](meeting008.md)
+* 2019/02/12 [第９回 Genome Graph 研究会](meeting009.md)
+* 2019/03/10 [第10回 Genome Graph 研究会](meeting010.md)
 
 
 ## 趣旨
@@ -20,15 +21,11 @@
 [こちらのリンク](https://join.slack.com/t/graphgenomejapan/shared_invite/enQtNDYyMjMxMDA0MzI1LWU1MTFjZmRlODM5ODRjNzY3NTI1YjRlMTM4NTM2NWIxMDY0MjNjNDczZTAzYzQ4Y2Q4NTdjZjE4M2Q3ZjAzNGI)よりご登録ください。
 また、[メーリングリスト](https://groups.google.com/group/genome-graph-jp)でも併せて定期的に情報発信を行いますので、興味のある方は各自ご登録頂ければと思います。
 
-## 今後の予定
-* 2018/11/21 [第８回 Genome Graph 研究会](meeting008.md)
-
 ## リンク集 (Under constructing)
 * [ゲノムグラフとは](genomegraph_overview)
 * [vgの資料]()
 * [論文スプレッドシート]()
 * [vg のチュートリアル CPANG18](portugal)
-
 
 
 研究会や講習会などの資料はこちらにまとめてあります。
@@ -41,3 +38,6 @@
 * 2018/8/23  [第５回 Genome Graph 研究会](meeting005.md)
 * 2018/9/27  [第６回 Genome Graph 研究会](meeting006.md)
 * 2018/10/23 [第７回 Genome Graph 研究会](meeting007.md)
+* 2018/11/21 [第８回 Genome Graph 研究会](meeting008.md)
+* 2019/02/12 [第９回 Genome Graph 研究会](meeting009.md)
+* 2019/03/10 [第10回 Genome Graph 研究会](meeting010.md)

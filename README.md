@@ -4,7 +4,7 @@
 
 
 ### 直近の予定
-* 2019/03/10 [第10回 Genome Graph 研究会](meeting010.md)
+* 2019/04/16-20(未定) [第11回 Genome Graph 研究会](meeting011.md)
 
 
 ## 趣旨
